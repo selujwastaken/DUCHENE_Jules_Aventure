@@ -74,3 +74,9 @@ var l368E6A35_0;l368E6A35_0 = keyboard_check(ord("Z"));if (!l368E6A35_0){	//
 				/// @DnDHash : 79D01130
 				/// @DnDParent : 2E03C5B0
 				speed = 0;}}}}
+
+/// @DnDAction : YoYo Games.Miscellaneous.Debug_Show_Message
+/// @DnDVersion : 1
+/// @DnDHash : 0878FD12
+/// @DnDArgument : "msg" "O_ManagerVie.Playerlife"
+show_debug_message(string(O_ManagerVie.Playerlife));

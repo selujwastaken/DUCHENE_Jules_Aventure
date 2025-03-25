@@ -6,10 +6,13 @@
   ],
   "managed":true,
   "name":"O_Loot_3",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Loot_1","path":"objects/O_Loot_1/O_Loot_1.yy",},"propertyId":{"name":"yDessin","path":"objects/O_Loot_1/O_Loot_1.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"200",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Loot_1","path":"objects/O_Loot_1/O_Loot_1.yy",},"propertyId":{"name":"value_loot","path":"objects/O_Loot_1/O_Loot_1.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"+10",},
+  ],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Loots",
+    "path":"folders/Objects/Loots.yy",
   },
   "parentObjectId":{
     "name":"O_Loot_1",

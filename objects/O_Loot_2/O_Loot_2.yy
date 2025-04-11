@@ -8,7 +8,7 @@
   "name":"O_Loot_2",
   "overriddenProperties":[
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Loot_1","path":"objects/O_Loot_1/O_Loot_1.yy",},"propertyId":{"name":"yDessin","path":"objects/O_Loot_1/O_Loot_1.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"150",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Loot_1","path":"objects/O_Loot_1/O_Loot_1.yy",},"propertyId":{"name":"value_loot","path":"objects/O_Loot_1/O_Loot_1.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"+5",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Loot_1","path":"objects/O_Loot_1/O_Loot_1.yy",},"propertyId":{"name":"value_loot","path":"objects/O_Loot_1/O_Loot_1.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"+50",},
   ],
   "parent":{
     "name":"Loots",

@@ -7,12 +7,19 @@
   ],
   "managed":true,
   "name":"O_Ennemi_2",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Ennemi","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"propertyId":{"name":"E_Degats","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"3",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Ennemi","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"propertyId":{"name":"E_Range","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"512",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Ennemi","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"propertyId":{"name":"E_Speed","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2",},
+  ],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"O_Manager_Ennemi",
+    "path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -26,9 +33,7 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[
-    {"$GMObjectProperty":"v1","%Name":"vie_ennemi","filters":[],"listItems":[],"multiselect":false,"name":"vie_ennemi","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"15","varType":0,},
-  ],
+  "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,

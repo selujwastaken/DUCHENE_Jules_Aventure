@@ -6,9 +6,9 @@ var l5E100732_0;l5E100732_0 = keyboard_check(ord("Z"));if (l5E100732_0){	///
 	/// @DnDVersion : 1
 	/// @DnDHash : 3DAD5E35
 	/// @DnDParent : 5E100732
-	/// @DnDArgument : "speed" "-5"
+	/// @DnDArgument : "speed" "-3"
 	/// @DnDArgument : "type" "2"
-	vspeed = -5;}
+	vspeed = -3;}
 
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 /// @DnDVersion : 1
@@ -18,9 +18,9 @@ var l38D9AC90_0;l38D9AC90_0 = keyboard_check(ord("S"));if (l38D9AC90_0){	///
 	/// @DnDVersion : 1
 	/// @DnDHash : 030A5A76
 	/// @DnDParent : 38D9AC90
-	/// @DnDArgument : "speed" "5"
+	/// @DnDArgument : "speed" "3"
 	/// @DnDArgument : "type" "2"
-	vspeed = 5;}
+	vspeed = 3;}
 
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 /// @DnDVersion : 1
@@ -30,9 +30,9 @@ var l61750F7E_0;l61750F7E_0 = keyboard_check(ord("Q"));if (l61750F7E_0){	///
 	/// @DnDVersion : 1
 	/// @DnDHash : 5A658F3E
 	/// @DnDParent : 61750F7E
-	/// @DnDArgument : "speed" "-5"
+	/// @DnDArgument : "speed" "-3"
 	/// @DnDArgument : "type" "1"
-	hspeed = -5;}
+	hspeed = -3;}
 
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 /// @DnDVersion : 1
@@ -42,9 +42,9 @@ var l67741CD4_0;l67741CD4_0 = keyboard_check(ord("D"));if (l67741CD4_0){	///
 	/// @DnDVersion : 1
 	/// @DnDHash : 24B32C92
 	/// @DnDParent : 67741CD4
-	/// @DnDArgument : "speed" "5"
+	/// @DnDArgument : "speed" "3"
 	/// @DnDArgument : "type" "1"
-	hspeed = 5;}
+	hspeed = 3;}
 
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 /// @DnDVersion : 1
@@ -78,9 +78,9 @@ var l368E6A35_0;l368E6A35_0 = keyboard_check(ord("Z"));if (!l368E6A35_0){	//
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 58E0E907
-/// @DnDArgument : "var" "O_ManagerVie.Playerlife"
+/// @DnDArgument : "var" "O_Manager_Vie.Playerlife"
 /// @DnDArgument : "op" "3"
-if(O_ManagerVie.Playerlife <= 0){	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+if(O_Manager_Vie.Playerlife <= 0){	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 	/// @DnDVersion : 1
 	/// @DnDHash : 4963D69D
 	/// @DnDParent : 58E0E907

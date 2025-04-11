@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Zone_2",
-    "path":"sprites/S_Zone_2/S_Zone_2.yy",
+    "name":"Sprite32",
+    "path":"sprites/Sprite32/Sprite32.yy",
   },
   "spriteMaskId":null,
   "visible":true,

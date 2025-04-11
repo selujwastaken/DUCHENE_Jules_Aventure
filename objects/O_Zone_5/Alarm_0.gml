@@ -9,8 +9,8 @@ randomize();
 /// @DnDArgument : "var" "variablex"
 /// @DnDArgument : "var_temp" "1"
 /// @DnDArgument : "min" "x"
-/// @DnDArgument : "max" "x+32*4"
-var variablex = (random_range(x, x+32*4));
+/// @DnDArgument : "max" "x+32*5"
+var variablex = (random_range(x, x+32*5));
 
 /// @DnDAction : YoYo Games.Random.Get_Random_Number
 /// @DnDVersion : 1

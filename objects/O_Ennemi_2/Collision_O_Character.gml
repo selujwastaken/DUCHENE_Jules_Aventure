@@ -2,9 +2,9 @@
 /// @DnDVersion : 1.1
 /// @DnDHash : 6A7A3627
 /// @DnDArgument : "script" "SC_ReduceLife"
-/// @DnDArgument : "arg" "2"
+/// @DnDArgument : "arg" "E_Degats"
 /// @DnDSaveInfo : "script" "SC_ReduceLife"
-script_execute(SC_ReduceLife, 2);
+script_execute(SC_ReduceLife, E_Degats);
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
@@ -12,21 +12,21 @@ script_execute(SC_ReduceLife, 2);
 /// @DnDInput : 3
 /// @DnDArgument : "expr" "$FF0000FF"
 /// @DnDArgument : "expr_1" "true"
-/// @DnDArgument : "expr_2" "-3"
-/// @DnDArgument : "var" "O_ManagerVie.color"
-/// @DnDArgument : "var_1" "O_ManagerVie.isVisible"
-/// @DnDArgument : "var_2" "O_ManagerVie.value"
-O_ManagerVie.color = $FF0000FF;
-O_ManagerVie.isVisible = true;
-O_ManagerVie.value = -3;
+/// @DnDArgument : "expr_2" "-E_Degats"
+/// @DnDArgument : "var" "O_Manager_Vie.color"
+/// @DnDArgument : "var_1" "O_Manager_Vie.isVisible"
+/// @DnDArgument : "var_2" "O_Manager_Vie.value"
+O_Manager_Vie.color = $FF0000FF;
+O_Manager_Vie.isVisible = true;
+O_Manager_Vie.value = -E_Degats;
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 03598B7D
-/// @DnDApplyTo : {O_ManagerVie}
+/// @DnDApplyTo : O_Manager_Vie
 /// @DnDArgument : "steps" "60"
 /// @DnDArgument : "alarm" "1"
-with(O_ManagerVie) {
+with(O_Manager_Vie) {
 alarm_set(1, 60);
 
 }

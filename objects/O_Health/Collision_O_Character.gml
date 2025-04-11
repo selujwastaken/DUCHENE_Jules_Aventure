@@ -13,20 +13,20 @@ script_execute(SC_ReduceLife, -3);
 /// @DnDArgument : "expr" "$FF00FF3F"
 /// @DnDArgument : "expr_1" "true"
 /// @DnDArgument : "expr_2" ""+3""
-/// @DnDArgument : "var" "O_ManagerVie.color"
-/// @DnDArgument : "var_1" "O_ManagerVie.isVisible"
-/// @DnDArgument : "var_2" "O_ManagerVie.value"
-O_ManagerVie.color = $FF00FF3F;
-O_ManagerVie.isVisible = true;
-O_ManagerVie.value = "+3";
+/// @DnDArgument : "var" "O_Manager_Vie.color"
+/// @DnDArgument : "var_1" "O_Manager_Vie.isVisible"
+/// @DnDArgument : "var_2" "O_Manager_Vie.value"
+O_Manager_Vie.color = $FF00FF3F;
+O_Manager_Vie.isVisible = true;
+O_Manager_Vie.value = "+3";
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 503C0F0E
-/// @DnDApplyTo : {O_ManagerVie}
+/// @DnDApplyTo : {O_Manager_Vie}
 /// @DnDArgument : "steps" "60"
 /// @DnDArgument : "alarm" "1"
-with(O_ManagerVie) {
+with(O_Manager_Vie) {
 alarm_set(1, 60);
 
 }

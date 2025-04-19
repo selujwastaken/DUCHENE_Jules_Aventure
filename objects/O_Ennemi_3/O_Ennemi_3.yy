@@ -8,9 +8,9 @@
   "managed":true,
   "name":"O_Ennemi_3",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Ennemi","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"propertyId":{"name":"E_Degats","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"10",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Ennemi","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"propertyId":{"name":"E_Range","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"128",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Ennemi","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"propertyId":{"name":"E_Speed","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"1",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Ennemi","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"propertyId":{"name":"E_Degats","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"15",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Ennemi","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"propertyId":{"name":"E_Range","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"512",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Ennemi","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"propertyId":{"name":"E_Speed","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"1.5",},
   ],
   "parent":{
     "name":"Objects",

@@ -34,6 +34,6 @@ instance_create_layer(variablex, variabley, "Instances_1", O_Ennemi_1);
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 4311B913
-/// @DnDArgument : "steps" "90"
+/// @DnDArgument : "steps" "120"
 /// @DnDArgument : "alarm" "1"
-alarm_set(1, 90);
+alarm_set(1, 120);

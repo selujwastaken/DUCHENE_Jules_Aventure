@@ -77,23 +77,34 @@ if(isOpen == true){	/// @DnDAction : YoYo Games.Drawing.Draw_Sprite
 
 	/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
 	/// @DnDVersion : 1
-	/// @DnDHash : 012CB763
+	/// @DnDHash : 4CDC6E53
 	/// @DnDParent : 12486344
 	/// @DnDArgument : "x" "600"
 	/// @DnDArgument : "y" "700"
-	/// @DnDArgument : "xscale" "2"
-	/// @DnDArgument : "yscale" "2"
-	/// @DnDArgument : "caption" ""Explore and search a way to repear your spaceshit ! ""
-	draw_text_transformed(600, 700, string("Explore and search a way to repear your spaceshit ! ") + "", 2, 2, 0);
+	/// @DnDArgument : "xscale" "1.5"
+	/// @DnDArgument : "yscale" "1.5"
+	/// @DnDArgument : "caption" ""Explore the terrain""
+	draw_text_transformed(600, 700, string("Explore the terrain") + "", 1.5, 1.5, 0);
+
+	/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
+	/// @DnDVersion : 1
+	/// @DnDHash : 012CB763
+	/// @DnDParent : 12486344
+	/// @DnDArgument : "x" "600"
+	/// @DnDArgument : "y" "750"
+	/// @DnDArgument : "xscale" "1.5"
+	/// @DnDArgument : "yscale" "1.5"
+	/// @DnDArgument : "caption" ""search a way out""
+	draw_text_transformed(600, 750, string("search a way out") + "", 1.5, 1.5, 0);
 
 	/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
 	/// @DnDVersion : 1
 	/// @DnDHash : 5DDF36B7
 	/// @DnDParent : 12486344
 	/// @DnDArgument : "x" "600"
-	/// @DnDArgument : "y" "750"
+	/// @DnDArgument : "y" "800"
 	/// @DnDArgument : "caption" ""goodluck""
-	draw_text_transformed(600, 750, string("goodluck") + "", 1, 1, 0);
+	draw_text_transformed(600, 800, string("goodluck") + "", 1, 1, 0);
 
 	/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
 	/// @DnDVersion : 1
@@ -143,13 +154,13 @@ if(isOpen == true){	/// @DnDAction : YoYo Games.Drawing.Draw_Sprite
 	/// @DnDVersion : 1
 	/// @DnDHash : 7748FF6C
 	/// @DnDParent : 12486344
-	/// @DnDArgument : "x" "600"
+	/// @DnDArgument : "x" "530"
 	/// @DnDArgument : "x_relative" "1"
 	/// @DnDArgument : "y" "300"
 	/// @DnDArgument : "xscale" "1.5"
 	/// @DnDArgument : "yscale" "1.5"
-	/// @DnDArgument : "caption" ""i got to make it land without much problems, but i have severe domage, i cannot fly.""
-	draw_text_transformed(x + 600, 300, string("i got to make it land without much problems, but i have severe domage, i cannot fly.") + "", 1.5, 1.5, 0);
+	/// @DnDArgument : "caption" ""i got to make it land without much problems, but there is still  severe domage, i cannot fly.""
+	draw_text_transformed(x + 530, 300, string("i got to make it land without much problems, but there is still  severe domage, i cannot fly.") + "", 1.5, 1.5, 0);
 
 	/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
 	/// @DnDVersion : 1
@@ -159,8 +170,8 @@ if(isOpen == true){	/// @DnDAction : YoYo Games.Drawing.Draw_Sprite
 	/// @DnDArgument : "y" "350"
 	/// @DnDArgument : "xscale" "1.5"
 	/// @DnDArgument : "yscale" "1.5"
-	/// @DnDArgument : "caption" ""there only one solution left, it's to explore this planet.""
-	draw_text_transformed(600, 350, string("there only one solution left, it's to explore this planet.") + "", 1.5, 1.5, 0);
+	/// @DnDArgument : "caption" ""there is only one solution left, it's to explore this planet.""
+	draw_text_transformed(600, 350, string("there is only one solution left, it's to explore this planet.") + "", 1.5, 1.5, 0);
 
 	/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
 	/// @DnDVersion : 1

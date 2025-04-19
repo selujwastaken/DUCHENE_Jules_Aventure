@@ -16,7 +16,8 @@ var l115453BE_0 = instance_place(x, y, [O_Character]);if ((l115453BE_0 > 0)){
 	/// @DnDParent : 115453BE
 	/// @DnDArgument : "x" "x"
 	/// @DnDArgument : "y" "y"
-	/// @DnDArgument : "xscale" "0.25"
-	/// @DnDArgument : "yscale" "0.25"
-	/// @DnDArgument : "sprite" "spriteTrade"
-	draw_sprite_ext(spriteTrade, 0, x, y, 0.25, 0.25, 0, $FFFFFF & $ffffff, 1);}
+	/// @DnDArgument : "xscale" "0.5"
+	/// @DnDArgument : "yscale" "0.5"
+	/// @DnDArgument : "sprite" "S_ZoneTradeInd"
+	/// @DnDSaveInfo : "sprite" "S_ZoneTradeInd"
+	draw_sprite_ext(S_ZoneTradeInd, 0, x, y, 0.5, 0.5, 0, $FFFFFF & $ffffff, 1);}

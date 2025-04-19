@@ -28,10 +28,10 @@ function SC_ReduceLife(amount) {	/// @DnDAction : YoYo Games.Common.If_Variabl
 		/// @DnDHash : 6545FAA3
 		/// @DnDApplyTo : {O_Character}
 		/// @DnDParent : 22276756
-		/// @DnDArgument : "spriteind" "S_Character_red"
-		/// @DnDSaveInfo : "spriteind" "S_Character_red"
+		/// @DnDArgument : "spriteind" "S_Idle_Forward_1"
+		/// @DnDSaveInfo : "spriteind" "S_Idle_Forward_1"
 		with(O_Character) {
-		sprite_index = S_Character_red;
+		sprite_index = S_Idle_Forward_1;
 		image_index = 0;
 		}
 	

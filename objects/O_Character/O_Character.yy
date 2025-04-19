@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Character",
-    "path":"sprites/S_Character/S_Character.yy",
+    "name":"S_Idle_Forward",
+    "path":"sprites/S_Idle_Forward/S_Idle_Forward.yy",
   },
   "spriteMaskId":null,
   "visible":true,

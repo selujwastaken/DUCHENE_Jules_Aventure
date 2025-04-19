@@ -25,27 +25,27 @@ if(isVisible == true){	/// @DnDAction : YoYo Games.Drawing.Set_Alignment
 	/// @DnDHash : 09754372
 	/// @DnDParent : 2BF13CD4
 	/// @DnDArgument : "x" "x"
-	/// @DnDArgument : "y" "y-90"
+	/// @DnDArgument : "y" "y"
 	/// @DnDArgument : "caption" "ZoneText1"
-	draw_text_transformed(x, y-90, string(ZoneText1) + "", 1, 1, 0);
+	draw_text_transformed(x, y, string(ZoneText1) + "", 1, 1, 0);
 
 	/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
 	/// @DnDVersion : 1
 	/// @DnDHash : 36E642B1
 	/// @DnDParent : 2BF13CD4
 	/// @DnDArgument : "x" "x"
-	/// @DnDArgument : "y" "y-70"
+	/// @DnDArgument : "y" "y"
 	/// @DnDArgument : "caption" "ZoneText2"
-	draw_text_transformed(x, y-70, string(ZoneText2) + "", 1, 1, 0);
+	draw_text_transformed(x, y, string(ZoneText2) + "", 1, 1, 0);
 
 	/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
 	/// @DnDVersion : 1
 	/// @DnDHash : 2BEEFD49
 	/// @DnDParent : 2BF13CD4
 	/// @DnDArgument : "x" "x"
-	/// @DnDArgument : "y" "y-50"
+	/// @DnDArgument : "y" "y"
 	/// @DnDArgument : "caption" "ZoneText3"
-	draw_text_transformed(x, y-50, string(ZoneText3) + "", 1, 1, 0);
+	draw_text_transformed(x, y, string(ZoneText3) + "", 1, 1, 0);
 
 	/// @DnDAction : YoYo Games.Drawing.Set_Alignment
 	/// @DnDVersion : 1.1

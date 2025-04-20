@@ -47,6 +47,8 @@
   "name":"DUCHENE_Jules_Aventure",
   "resources":[
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
+    {"id":{"name":"O_AmatDePierre_1","path":"objects/O_AmatDePierre_1/O_AmatDePierre_1.yy",},},
+    {"id":{"name":"O_AmatDePierre_2","path":"objects/O_AmatDePierre_2/O_AmatDePierre_2.yy",},},
     {"id":{"name":"O_Bomb","path":"objects/O_Bomb/O_Bomb.yy",},},
     {"id":{"name":"O_bouton_Exit","path":"objects/O_bouton_Exit/O_bouton_Exit.yy",},},
     {"id":{"name":"O_bouton_GO_Home","path":"objects/O_bouton_GO_Home/O_bouton_GO_Home.yy",},},
@@ -127,6 +129,7 @@
     {"id":{"name":"Sprite32","path":"sprites/Sprite32/Sprite32.yy",},},
     {"id":{"name":"Sprite36","path":"sprites/Sprite36/Sprite36.yy",},},
     {"id":{"name":"Sprite37","path":"sprites/Sprite37/Sprite37.yy",},},
+    {"id":{"name":"Sprite47","path":"sprites/Sprite47/Sprite47.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

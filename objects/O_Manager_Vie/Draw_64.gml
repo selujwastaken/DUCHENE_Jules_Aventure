@@ -52,14 +52,13 @@ draw_set_font(Font1);
 /// @DnDVersion : 1
 /// @DnDHash : 10D41F20
 /// @DnDArgument : "x" "80"
-/// @DnDArgument : "y" "15"
+/// @DnDArgument : "y" "1"
 /// @DnDArgument : "xscale" "2"
 /// @DnDArgument : "xscale_relative" "1"
 /// @DnDArgument : "yscale" "2"
 /// @DnDArgument : "yscale_relative" "1"
 /// @DnDArgument : "caption" "" : ""
-/// @DnDArgument : "text" "5"
-draw_text_transformed(80, 15, string(" : ") + string(5), image_xscale + 2, image_yscale + 2, 0);
+draw_text_transformed(80, 1, string(" : ") + "", image_xscale + 2, image_yscale + 2, 0);
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
 /// @DnDVersion : 1

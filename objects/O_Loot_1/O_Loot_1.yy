@@ -27,9 +27,9 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"xDessin","filters":[],"listItems":[],"multiselect":false,"name":"xDessin","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"80","varType":1,},
+    {"$GMObjectProperty":"v1","%Name":"xDessin","filters":[],"listItems":[],"multiselect":false,"name":"xDessin","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"150","varType":1,},
     {"$GMObjectProperty":"v1","%Name":"yDessin","filters":[],"listItems":[],"multiselect":false,"name":"yDessin","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"100","varType":1,},
-    {"$GMObjectProperty":"v1","%Name":"value_loot","filters":[],"listItems":[],"multiselect":false,"name":"value_loot","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"+50","varType":2,},
+    {"$GMObjectProperty":"v1","%Name":"value_loot","filters":[],"listItems":[],"multiselect":false,"name":"value_loot","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"+25","varType":2,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

@@ -34,10 +34,10 @@ var l30E54B79_0 = instance_place(x, y, [O_Character]);if ((l30E54B79_0 > 0)){
 				/// @DnDVersion : 1
 				/// @DnDHash : 68D08C45
 				/// @DnDParent : 24146017
-				/// @DnDArgument : "var" "O_Manager_Item.loot1"
+				/// @DnDArgument : "var" "O_Manager_Item.loot3"
 				/// @DnDArgument : "op" "4"
 				/// @DnDArgument : "value" "10"
-				if(O_Manager_Item.loot1 >= 10){	/// @DnDAction : YoYo Games.Common.Variable
+				if(O_Manager_Item.loot3 >= 10){	/// @DnDAction : YoYo Games.Common.Variable
 					/// @DnDVersion : 1
 					/// @DnDHash : 5BC60CE8
 					/// @DnDInput : 4

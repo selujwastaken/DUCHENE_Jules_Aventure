@@ -47,6 +47,7 @@
   "name":"DUCHENE_Jules_Aventure",
   "resources":[
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
+    {"id":{"name":"O_Bomb","path":"objects/O_Bomb/O_Bomb.yy",},},
     {"id":{"name":"O_bouton_Exit","path":"objects/O_bouton_Exit/O_bouton_Exit.yy",},},
     {"id":{"name":"O_bouton_GO_Home","path":"objects/O_bouton_GO_Home/O_bouton_GO_Home.yy",},},
     {"id":{"name":"O_bouton_Play","path":"objects/O_bouton_Play/O_bouton_Play.yy",},},
@@ -69,6 +70,7 @@
     {"id":{"name":"O_Zone_2","path":"objects/O_Zone_2/O_Zone_2.yy",},},
     {"id":{"name":"O_Zone_3","path":"objects/O_Zone_3/O_Zone_3.yy",},},
     {"id":{"name":"O_Zone_4","path":"objects/O_Zone_4/O_Zone_4.yy",},},
+    {"id":{"name":"O_Zone_5","path":"objects/O_Zone_5/O_Zone_5.yy",},},
     {"id":{"name":"O_Zone_6","path":"objects/O_Zone_6/O_Zone_6.yy",},},
     {"id":{"name":"O_Zone_ennemi_1","path":"objects/O_Zone_ennemi_1/O_Zone_ennemi_1.yy",},},
     {"id":{"name":"O_Zone_ennemi_2","path":"objects/O_Zone_ennemi_2/O_Zone_ennemi_2.yy",},},
@@ -79,6 +81,7 @@
     {"id":{"name":"R_Jeu","path":"rooms/R_Jeu/R_Jeu.yy",},},
     {"id":{"name":"R_Menue","path":"rooms/R_Menue/R_Menue.yy",},},
     {"id":{"name":"SC_ReduceLife","path":"scripts/SC_ReduceLife/SC_ReduceLife.yy",},},
+    {"id":{"name":"S_Bomb","path":"sprites/S_Bomb/S_Bomb.yy",},},
     {"id":{"name":"S_bouton_Exit","path":"sprites/S_bouton_Exit/S_bouton_Exit.yy",},},
     {"id":{"name":"S_bouton_Go_Home","path":"sprites/S_bouton_Go_Home/S_bouton_Go_Home.yy",},},
     {"id":{"name":"S_bouton_Play","path":"sprites/S_bouton_Play/S_bouton_Play.yy",},},

@@ -39,6 +39,7 @@
     {"$GMObjectProperty":"v1","%Name":"SPLOOT2","filters":[],"listItems":[],"multiselect":false,"name":"SPLOOT2","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
     {"$GMObjectProperty":"v1","%Name":"SPLOOT3","filters":[],"listItems":[],"multiselect":false,"name":"SPLOOT3","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
     {"$GMObjectProperty":"v1","%Name":"IsInventoryVisible","filters":[],"listItems":[],"multiselect":false,"name":"IsInventoryVisible","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
+    {"$GMObjectProperty":"v1","%Name":"Bomb","filters":[],"listItems":[],"multiselect":false,"name":"Bomb","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

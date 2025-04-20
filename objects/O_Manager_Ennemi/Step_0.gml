@@ -1,3 +1,14 @@
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 393549E6
+/// @DnDArgument : "var" "E_Life"
+/// @DnDArgument : "op" "3"
+if(E_Life <= 0){	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 41F25C02
+	/// @DnDParent : 393549E6
+	instance_destroy();}
+
 /// @DnDAction : YoYo Games.Collisions.If_Collision_Shape
 /// @DnDVersion : 1.1
 /// @DnDHash : 6F1C8154

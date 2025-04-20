@@ -4,7 +4,6 @@
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Character","path":"objects/O_Character/O_Character.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
@@ -29,10 +28,11 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"spriteTrade","filters":[],"listItems":[],"multiselect":false,"name":"spriteTrade","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":5,},
+    {"$GMObjectProperty":"v1","%Name":"spriteTrade","filters":[],"listItems":[],"multiselect":false,"name":"spriteTrade","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"S_ZoneTradeInd","path":"sprites/S_ZoneTradeInd/S_ZoneTradeInd.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"S_ZoneTradeInd","varType":5,},
     {"$GMObjectProperty":"v1","%Name":"ZoneText1","filters":[],"listItems":[],"multiselect":false,"name":"ZoneText1","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"\"","varType":2,},
     {"$GMObjectProperty":"v1","%Name":"ZoneText2","filters":[],"listItems":[],"multiselect":false,"name":"ZoneText2","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"\"","varType":2,},
     {"$GMObjectProperty":"v1","%Name":"ZoneText3","filters":[],"listItems":[],"multiselect":false,"name":"ZoneText3","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"\"","varType":2,},
+    {"$GMObjectProperty":"v1","%Name":"item","filters":[],"listItems":[],"multiselect":false,"name":"item","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"noone","varType":5,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

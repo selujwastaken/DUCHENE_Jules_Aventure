@@ -1,17 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"O_Zone_3",
+  "%Name":"O_Zone_5",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"O_Zone_3",
+  "name":"O_Zone_5",
   "overriddenProperties":[
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"spriteTrade","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resource":{"name":"S_ZoneTradeInd","path":"sprites/S_ZoneTradeInd/S_ZoneTradeInd.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"S_ZoneTradeInd",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"ZoneText1","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"zone3 - SPITEM 3\"",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"ZoneText1","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"zone3 - HandMade BOMB\"",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"ZoneText2","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Cost\"",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"ZoneText3","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"[10] item 2 / [15] item 3\"",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"item","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resource":{"name":"S_Special_Loot_3","path":"sprites/S_Special_Loot_3/S_Special_Loot_3.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"S_Special_Loot_3",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"ZoneText3","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"[2] item 1 / [1] item 2\"",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"item","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resource":{"name":"S_Bomb","path":"sprites/S_Bomb/S_Bomb.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"S_Bomb",},
   ],
   "parent":{
     "name":"ZONES",

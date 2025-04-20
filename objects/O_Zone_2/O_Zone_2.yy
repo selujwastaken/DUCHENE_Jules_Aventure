@@ -11,6 +11,7 @@
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"ZoneText1","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"zone2 - SPITEM 2\"",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"ZoneText2","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Cost\"",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"ZoneText3","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"[2] item 1 / [8] item 2 / [10] item 3\"",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"item","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resource":{"name":"S_Special_Loot_2","path":"sprites/S_Special_Loot_2/S_Special_Loot_2.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"S_Special_Loot_2",},
   ],
   "parent":{
     "name":"ZONES",

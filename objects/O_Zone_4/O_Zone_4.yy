@@ -8,12 +8,19 @@
   ],
   "managed":true,
   "name":"O_Zone_4",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"ZoneText3","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"\"[5] SPitem 1 / [8] SPitem 2 / [2] SPitem 3\"\"",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"ZoneText2","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Repair Cost :\"",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"ZoneText1","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Your Space Ship\"",},
+  ],
   "parent":{
     "name":"ZONES",
     "path":"folders/Objects/ZONES.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"O_Manager_Zones",
+    "path":"objects/O_Manager_Zones/O_Manager_Zones.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
